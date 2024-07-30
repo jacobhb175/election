@@ -21,3 +21,11 @@ Outcome: years of life
 Treatment: Winning or Losing election
 Covariates: Sex, age
 Predictive vs Causal: Predictive
+
+validity might not hold bc data from gov vs mayor
+population table: data + preceptor table + time
+unconfoundedness: not causal
+representativeness: only includes top two 
+
+
+
