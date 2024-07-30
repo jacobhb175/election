@@ -16,3 +16,8 @@ library(tidyverse)
 governors
 ```
 
+Preceptor Table:
+Outcome: years of life
+Treatment: Winning or Losing election
+Covariates: Sex, age
+Predictive vs Causal: Predictive
