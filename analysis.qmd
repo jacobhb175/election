@@ -20,12 +20,13 @@ Preceptor Table:
 Outcome: years of life
 Treatment: Winning or Losing election
 Covariates: Sex, age
-Predictive vs Causal: Predictive
+Predictive vs Causal: Causal
 
 validity might not hold bc data from gov vs mayor
 population table: data + preceptor table + time
-unconfoundedness: not causal
+unconfoundedness: bias of voters, societal factors
 representativeness: only includes top two 
+stability: time difference; lifespan changes
 
 
 
