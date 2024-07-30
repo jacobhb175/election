@@ -1,0 +1,18 @@
+---
+title: "Analysis"
+author: "Jacob Hardin-Bernhardt"
+format: html
+execute:
+  echo: false
+  message: false
+---
+```{r}
+#| label: setup
+library(primer.data)
+library(tidyverse)
+```
+
+```{r}
+governors
+```
+
